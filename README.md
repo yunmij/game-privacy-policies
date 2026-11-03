@@ -8,6 +8,8 @@
 | --- | --- | --- |
 | 笔下英雄 | TapTap 小游戏 | https://yunmij.github.io/game-privacy-policies/bixia-yingxiong/taptap/ |
 
+| 笔下英雄 | TapTap 创意工坊 H5 | https://yunmij.github.io/game-privacy-policies/bixia-yingxiong/taptap-workshop/ |
+
 ## 目录约定
 
 - 首页 `index.html` 列出已发布政策的游戏。
